@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi+there%F0%9F%91%8B&textBg=false&fontSize=70&fontAlign=29&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=I+am+a+student+engineer.&descSize=20&descAlign=21&descAlignY=66" alt="HiThere"/>
 
 ## 👤 About me
-ハードウェアからソフトウェアまで幅広く開発を行っている学生エンジニアです．
+ハードウェアからソフトウェアまで幅広く開発を行っている学生エンジニアです．  
 「自作の精神」をモットーとし，気になった物を実際に自分で作ることで知識を深めています．
 
 ## 🔧 Skills
