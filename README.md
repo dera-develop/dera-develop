@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**dera-develop/dera-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi+there%F0%9F%91%8B&textBg=false&fontSize=70&fontAlign=29&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=I+am+a+student+engineer.&descSize=20&descAlign=21&descAlignY=66" alt="HiThere"/>
 
-Here are some ideas to get you started:
+## 👤 About me
+ハードウェアからソフトウェアまで幅広く開発を行っている学生エンジニアです．
+「自作の精神」をモットーとし，気になった物を実際に自分で作ることで知識を深めています．
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+#### Languages
+[![Languages](https://skillicons.dev/icons?i=py,arduino,c)](https://skillicons.dev)
+#### Tools
+[![Languages](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+#### Other
+[![Languages](https://skillicons.dev/icons?i=blender,raspberrypi)](https://skillicons.dev)
+
+## 🚀Projects
+#### [**Discord-lib-v2**](https://github.com/dera-develop/Discord-lib-v2)
+  DiscordのBotを作成するライブラリ．
+  - **Language**: Python
+#### [**BodyTracker-Kit**](https://github.com/dera-develop/BodyTracker-Kit)
+  体に身に着けて動作するボディートラッカー．
+  - **Language**: Arduino
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=29&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=21&descAlignY=66" alt="Footer" />
