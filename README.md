@@ -20,5 +20,8 @@
 #### [**BodyTracker-Kit**](https://github.com/dera-develop/BodyTracker-Kit)
   体に身に着けて動作するボディートラッカー．
   - **Language**: Arduino
+#### [**NCPx8**](https://github.com/dera-develop/NCPx8)
+  NANDゲートのみで製作したCPU
+  - **Simulator** Logisim-Evolution
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=29&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=21&descAlignY=66" alt="Footer" />
